@@ -1,0 +1,26 @@
+body{
+    padding:0px;
+}
+.main-card{
+    height: 90vh;
+}
+.heading{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+h1{
+    font-size: 100rem;
+}
+#contact_me, #about_me, #project, #foot, #mail{
+    display: none;
+}
+
+.u-btn{
+    color: blue;
+}
+.u-btn:hover{
+    text-decoration: underline;
+    color: black;
+}
